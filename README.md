@@ -4,10 +4,10 @@ Academic project: detection of unwanted SMS messages through exploratory data an
 
 ## Team members
 
-- Member 1: [Name]
-- Member 2: [Name]
-- Member 3: [Name]
-- Member 4: [Name]
+- Member 1: [Edwin Perez]
+- Member 2: [Cristian Quebrada]
+- Member 3: [Ruben Dario Sabogal]
+
 
 ## Dataset
 
